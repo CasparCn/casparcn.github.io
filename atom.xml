@@ -6,7 +6,7 @@
   <link href="https://casparc.cn/atom.xml" rel="self"/>
   
   <link href="https://casparc.cn/"/>
-  <updated>2023-01-22T14:51:09.171Z</updated>
+  <updated>2023-01-24T11:07:46.565Z</updated>
   <id>https://casparc.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Running With Rifles 中文文档</title>
+    <title>Running With Rifles中文文档</title>
     <link href="https://casparc.cn/2023/01/21/82e6be4e14b1/"/>
     <id>https://casparc.cn/2023/01/21/82e6be4e14b1/</id>
     <published>2023-01-21T13:11:19.000Z</published>
-    <updated>2023-01-22T14:51:09.171Z</updated>
+    <updated>2023-01-24T11:07:46.565Z</updated>
     
     <content type="html"><![CDATA[<div class="note warning"><p>持续更新中…</p></div><h2 id="模组"><a href="#模组" class="headerlink" title="模组"></a>模组</h2><h3 id="地图制作指南"><a href="#地图制作指南" class="headerlink" title="地图制作指南"></a>地图制作指南</h3><h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>在RWR中制作一张地图并不困难。由于3D编辑器并不存在且未来很长一段时间里都不可能存在，所以您需要在使用Inkscape在2D视图中完成全部的工作，如果您有使用Inkscape的经验，那么这一切对您来说将变得很容易。注意，一张地图不会在几个小时内制作完成，所以在开始制作一张地图之前请您三思。</p><h4 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h4>]]></content>
     
@@ -34,6 +34,8 @@
       
     
     
+    
+    <category term="文档" scheme="https://casparc.cn/categories/%E6%96%87%E6%A1%A3/"/>
     
     
   </entry>
